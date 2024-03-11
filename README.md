@@ -1,8 +1,52 @@
-# React + Vite
+## Kanban Board 📓
+Kanban Board with subtle animations and modern user interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features 💻
+- Advanced Animations
+- Modern User Interface
+<hr/>
 
-Currently, two official plugins are available:
+## Tech Stack Used 🧑‍💻
+- ReactJs powered by Vite
+- NodeJs
+- Framer Motion
+- Vercel for Deployment
+- Javascript
+- Tailwind
+- Git
+<hr/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to setup locally 💻:
+- Clone this repo
+- Run git clone `clone-url` in your directory and `cd directory`
+  
+<br />
+
+```js
+
+For frontend
+- Run `cd frontend`
+- Run `npm install`
+- Run `npm run dev`
+
+```
+
+
+<hr/>
+
+### Screenshot:
+
+![image](https://github.com/SoNiC-HeRE/KanbanBoard/assets/96797205/4ee9a6d6-932b-4f35-9094-a5e9dfbd7168)
+
+
+
+
+
+Live: https://kanban-board-sonic.vercel.app/
+<hr/>
+
+
+
+
+
+
